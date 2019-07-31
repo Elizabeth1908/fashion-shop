@@ -24,13 +24,36 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-angle-right:before {
-  content: "\f105";
+.icon-envelope-o:before {
+  content: "\f003";
 }
-
-
+.icon-check:before {
+  content: "\f00c";
+}
+.icon-map-marker:before {
+  content: "\f041";
+}
+.icon-phone:before {
+  content: "\f095";
+}
+.icon-briefcase:before {
+  content: "\f0b1";
+}
+.icon-bars:before {
+  content: "\f0c9";
+}
+.icon-navicon:before {
+  content: "\f0c9";
+}
+.icon-reorder:before {
+  content: "\f0c9";
+}
 .icon-angle-left:before {
   content: "\f104";
 }
-
-
+.icon-angle-right:before {
+  content: "\f105";
+}
+.icon-quote-right:before {
+  content: "\f10e";
+}
